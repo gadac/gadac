@@ -9,8 +9,13 @@
 <a href="mailto:gadac96@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="30" width="40"/></a>
 </p>
 
-
-
+<h3 align="left">Technology:</h3>
+<div>
+<a> <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="" height="30" width="40"/></a>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="" height="30" width="40"/></a>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="" height="30" width="40"/></a>
+<a> <img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="" height="30" width="40"/></a>
+</div>
 
 <!--
 **gadac/gadac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
