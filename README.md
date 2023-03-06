@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gadac21/" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v3.png%22/%3E" alt="" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/gadac21/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" width="40"/></a>
 </p>
 
 
