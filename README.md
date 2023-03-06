@@ -9,6 +9,9 @@
 <a href="mailto:gadac96@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="30" width="40"/></a>
 </p>
 
+<h3 align="left">Language:</h3>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="" height="40" width="50"/></a>
+
 <h3 align="left">Technology:</h3>
 <div>
 <a> <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="" height="40" width="50"/></a>
