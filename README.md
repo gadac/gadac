@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Language:</h3>
-<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="" height="40" width="50"/></a>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" height="40" width="50"/></a>
 
 <h3 align="left">Technology:</h3>
 <div>
