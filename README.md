@@ -14,7 +14,7 @@
 <a> <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="" height="40" width="50"/></a>
 <a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="" height="40" width="50"/></a>
 <a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="" height="40" width="50"/></a>
-<a> <img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="" height="40" width="50"/></a>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="" height="40" width="50"/></a>
 </div>
 
 <!--
