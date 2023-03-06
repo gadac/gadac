@@ -20,4 +20,4 @@
 <a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="" height="40" width="50"/></a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gadac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gadac&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
