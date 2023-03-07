@@ -10,10 +10,10 @@ Conhecei a me dedicar de verdade em agosto de 2022 em programação para desenvo
 <p></p>
 Atualmente estou em busca do meu primeiro emprego.
 <p></p>
-Sou uma pessoa que aceita criticas construtivas e estou confiante que serei um bom desenvolvedor.
+Sou uma pessoa que aceita criticas construtivas.
 </p>
 <p></p>
-Em busca de me tornar um programador melhor a cada dia.
+Já construi API Resful usando Node.js, PostgreSQL, Token, Bcriptn, token, Nodemon e NPM.
 </p>
 
 
