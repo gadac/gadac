@@ -6,14 +6,14 @@
   
 </div>
 <p> 
-Conhecei a me dedicar de verdade em agosto de 2022 em programação para desenvolvedor Back-end, mas tenho contato com programação desde de 2019 .
+Desde o ano de 2019, desenvolvi interesse e aptidão para programações. Com isso em mente, no mês de agosto de 2022, passei a me dedicar exclusivamente em programação, com ênfase no desenvolvedor Back-End.
 <p></p>
-Atualmente estou em busca do meu primeiro emprego.
+Neste momento, tenho o objetivo de encontrar uma oportunidade para colocar em prática minhas atribuições e contribuir para o alcance dos resultados em âmbito profissional. 
 <p></p>
-Sou uma pessoa que aceita criticas construtivas.
+Aprecio comentários e críticas que possuem o condão de influenciar positivamente meu desempenho.
 </p>
 <p></p>
-Já construi API Resful usando Node.js, PostgreSQL, Token, Bcriptn, token, Nodemon e NPM.
+Por fim, registro que obtive êxito em implementar API Resful usando Node.js, PostgreSQL, Token, Bcriptn, Nodemon e NPM.
 </p>
 
 
