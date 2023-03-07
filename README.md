@@ -6,7 +6,7 @@
   
 </div>
 <p> 
-Conhecei a me dedicar de verdade em agosto de 2022 em programação para desenvolver Back-end, mas tenho contato com programação desde de 2019 .
+Conhecei a me dedicar de verdade em agosto de 2022 em programação para desenvolvedor Back-end, mas tenho contato com programação desde de 2019 .
 <p></p>
 Atualmente estou em busca do meu primeiro emprego.
 <p></p>
