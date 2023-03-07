@@ -13,7 +13,7 @@ Atualmente estou em busca do meu primeiro emprego.
 Sou uma pessoa que aceita criticas construtivas e estou confiante que serei um bom desenvolvedor.
 </p>
 <p></p>
-Em buscar de me torna um programador melhor a cada dia.
+Em busca de me torna um programador melhor a cada dia.
 </p>
 
 
