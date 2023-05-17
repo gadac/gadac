@@ -36,9 +36,9 @@ Por fim, registro que obtive êxito em implementar API Resful usando Node.js, Po
 <a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="" height="40" width="50"/></a>
 </div>
 
-<h3 align="left">Foco para o futuro:</h3>
+<h3 align="left">Estudando:</h3>
 <div>
-<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="" height="40" width="50"/></a>
+<a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="" height="40" width="50"/></a>
 </div>
 
 <p>
