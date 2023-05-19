@@ -13,7 +13,7 @@ Neste momento, tenho o objetivo de encontrar uma oportunidade para colocar em pr
 Aprecio comentários e críticas que possuem o condão de influenciar positivamente meu desempenho.
 </p>
 <p></p>
-Por fim, registro que obtive êxito em implementar API Resful usando Node.js, PostgreSQL, Token, Bcriptn, Nodemon e NPM.
+Por fim, registro que obtive êxito em implementar API Resful usando Node.js com Javascript, PostgreSQL, JWT Token, Bcriptn, Nodemon e NPM(Express). A comunicação com o front-end foi feito em JSON
 </p>
 
 
